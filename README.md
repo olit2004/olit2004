@@ -1,7 +1,7 @@
 # Hi there, I'm Olit Oljira Kenea! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;React+19+&Tailwind+4+Expert;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Full+Stack+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;TypeScript+%26+Distributed+Systems;Mobile+Development+Expert;Building+Intelligent+Software" alt="Typing SVG" />
 </div>
 
 ---
